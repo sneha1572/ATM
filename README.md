@@ -6,6 +6,14 @@ A simple C-based ATM simulator that allows users to check balance, deposit, and 
 
 A beginner-friendly C program that simulates a simple ATM machine. It demonstrates core C concepts like conditionals, loops, and user input — without using arrays or functions — making it ideal for students who are just getting started with C programming.
 
+## 🔐 Default PIN
+
+This project uses a default PIN: `1234`  
+You can change it in the code at this line:
+
+```c
+pin = 1234;
+
 ---
 
 ## 🚀 Features
